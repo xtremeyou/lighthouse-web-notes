@@ -1,1 +1,1 @@
-# lighthouse-web-notes
+# Merak Bourque's Notes
